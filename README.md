@@ -40,7 +40,7 @@ Project Modules
 - Dashboard and User Interface
 
 
-🎓 Conclusion
+Conclusion
 
 The Help Desk Management System demonstrates how Java Swing can be used to develop a simple desktop application for organized support ticket management. It provides basic ticket creation, viewing, and status tracking features.
 
